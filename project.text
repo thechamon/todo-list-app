@@ -10,4 +10,5 @@
 
         Primary gole is to take input.
         Append then as a div that will contain li & buttons to delete, mark done.
-        Use localStorage to store data.
+    
+    3. Use localStorage to store data.
