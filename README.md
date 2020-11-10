@@ -1,6 +1,6 @@
 #@TODO List App: Inspired by Ed
 
-    1. HTML markup for the structure & CSS for styke purpose.
+    1. HTML markup for the structure & CSS for style purpose.
         
         Text input field for TODO input
         Submit Button
