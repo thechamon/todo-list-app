@@ -1,4 +1,4 @@
-#@TODO List App: Inspired by Ed
+#@TODO List App: Inspired by [Dev Ed](https://www.youtube.com/watch?v=Ttf3CEsEwMQ&t=4065s)
 
     1. HTML markup for the structure & CSS for style purpose.
         
